@@ -33,7 +33,6 @@ Developed a Vendor Management System using Django and Django REST Framework. Thi
    ```bash
    python manage.py makemigrations
    
-   ```bash
    python manage.py migrate
    
 6. Run the code:
