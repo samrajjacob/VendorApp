@@ -12,7 +12,7 @@ Developed a Vendor Management System using Django and Django REST Framework. Thi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/samrajjacob/Toll-Tracker.git
+   git clone https://github.com/samrajjacob/VendorApp.git
    
 2. Create the environment:
 
