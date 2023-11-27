@@ -4,8 +4,16 @@ Developed a Vendor Management System using Django and Django REST Framework. Thi
 ### Prerequisites
 
 - Python 3.10.7
-- Git (optional, for cloning the repository)
+- Git (for cloning the repository)
+  
+### Libraries  used
 
+- djangorestframework-simplejwt==5.3.0: This library is an extension of Django REST framework (DRF) that provides JSON Web Token (JWT) authentication. JWTs are a secure way to transmit information between parties, and they are commonly used for authentication in web applications. djangorestframework-simplejwt simplifies the integration of JWT authentication into Django REST framework.
+
+- Django==4.2.7: Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It follows the Model-View-Controller (MVC) architectural pattern and includes an Object-Relational Mapping (ORM) system for database interactions. In your project, Django serves as the foundation for building web applications.
+  
+- djangorestframework==3.14.0: Django REST framework (DRF) is a powerful and flexible toolkit for building Web APIs in Django applications. It is an extension of Django that makes it easy to build, test, and deploy RESTful APIs. DRF includes serializers for data handling, class-based views for defining API endpoints, and authentication mechanisms. It simplifies the process of building robust and scalable APIs.
+  
 ### Installation
 
 1. Clone the repository:
