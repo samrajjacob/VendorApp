@@ -1,4 +1,3 @@
-# vendor_app/utils.py
 from django.db.models import Count, Avg
 from django.utils import timezone
 
